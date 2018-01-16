@@ -1,0 +1,10 @@
+I WANT TO FAZER CADASTRO DE DEPARTAMENTO
+
+I am 'user' 
+I look forward to 'access sisgr cadastro departamento' 
+I am on page '/departamentos/novo' 
+I fill field 'nome','Testedepartamento' 
+I click 'Salvar' 
+I see in current url '/departamentos' 
+I see 'Testedepartamento'
+

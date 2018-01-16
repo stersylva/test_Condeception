@@ -1,0 +1,10 @@
+I WANT TO FAZER LOGIN NO SISGR
+
+I am 'user' 
+I look forward to 'access website features for logged-in users' 
+I am on page '/auth/login' 
+I fill field 'login','Admin' 
+I fill field 'password','lti1990' 
+I click 'Entrar' 
+I see 'Início'
+
